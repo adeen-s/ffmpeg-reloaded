@@ -1,3 +1,3 @@
 How to use:
 
-```yarn add https://github.com/<github-username>/ffmpeg-reloaded```
+```yarn add https://github.com/adeen-s/ffmpeg-reloaded```
